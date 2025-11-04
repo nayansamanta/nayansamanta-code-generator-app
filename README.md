@@ -1,5 +1,7 @@
 # Gemini-Powered Code Generator
 
+https://nayansamanta-code-generator-app-e7hunusdjwqswnf8ys3cal.streamlit.app/  ---- this is the direct link you can use on browser with correct setup
+
 A Streamlit web app powered by **Google Gemini (Generative AI)** that can generate **code in multiple programming languages** from plain English descriptions — with explanations included.
 
 
@@ -59,3 +61,4 @@ http://localhost:8501
 python -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
 pip install -r requirements.txt
+
